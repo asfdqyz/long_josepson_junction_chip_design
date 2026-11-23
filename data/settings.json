@@ -1,0 +1,41 @@
+{
+  "configuration": {
+    "lengths_um": [
+      1000,
+      1200,
+      1400
+    ],
+    "active_width_um": 5.0,
+    "lateral_overlap_um": 6.0,
+    "jc_kA_cm2": 0.1,
+    "junction_capacitance_fF_um2": 60.0,
+    "active_magnetic_thickness_nm": 230.0,
+    "overlap_dielectric_nm": 200.0,
+    "overlap_permittivity": 3.9,
+    "alpha": 0.2,
+    "load_ohm": 50.0,
+    "temperature_K": 4.2,
+    "mesh_dx_over_lambda": 0.23,
+    "seed_fraction": 0.5,
+    "seed_velocity_over_swihart": 0.9,
+    "seed_direction": "right",
+    "bias_min": 0.18,
+    "bias_max": 1.02,
+    "bias_step": 0.02,
+    "settle_tau": 2000.0,
+    "record_tau": 1800.0,
+    "sample_tau": 0.12,
+    "noise_realizations": 64,
+    "random_seed": 20261123
+  },
+  "scales": {
+    "Ic_per_m": 5.0,
+    "capacitance_per_m": 3.0103593997409756e-07,
+    "inductance_per_m": 3.5207196990371736e-08,
+    "omega_p_rad_s": 224650785953.17566,
+    "voltage_scale_V": 7.393391670988355e-05,
+    "swihart_m_s": 9713485.60355381,
+    "lambda_m": 4.32381554435265e-05,
+    "Z0_ohm": 0.3419846011074589
+  }
+}
