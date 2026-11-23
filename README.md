@@ -27,7 +27,7 @@
 
 ![Основная частота и тепловая полуширина на первой ступени](figures/02_tuning_and_linewidth.png)
 
-[Основная частота](figures/panels/tuning_f1.png) · [Тепловая полуширина](figures/panels/thermal_hwhm.png)
+[Основная частота](figures/panels/tuning_f1.png) · 
 
 ### Спектры выходного сигнала
 
